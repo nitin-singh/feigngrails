@@ -245,5 +245,8 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty:jetty-io:9.2.19.v20160908" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.2.19.v20160908" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty.websocket:websocket-api:9.2.19.v20160908" level="project" />
+    <orderEntry type="library" name="Gradle: com.netflix.feign:feign-core:8.18.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.netflix.feign:feign-gson:8.18.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jvnet:animal-sniffer-annotation:1.0" level="project" />
   </component>
 </module>
